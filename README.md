@@ -1,4 +1,4 @@
-# EA_timer_trade
+# EA Timer Trade For XAUUSD
 
 //+------------------------------------------------------------------+
 //| Expert Advisor untuk XAUUSD (M15)                               |
